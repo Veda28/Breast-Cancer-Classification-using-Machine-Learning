@@ -7,5 +7,5 @@ Logistic Regression is a supervised Machine Learning algorithm to classify data 
 ![image1](https://user-images.githubusercontent.com/85306612/190912256-62df6c49-e57f-4eae-bb70-6dff702993fb.png)
 
 ## 📌Conclusion 
-The Logistic Regression model is able to detect the malignant and benign tumors with 92.28 % accuracy.
+The Logistic Regression model is able to detect the malignant and benign tumors with 92.98% accuracy. 
 
